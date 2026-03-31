@@ -1,2 +1,2 @@
 # Introduction to Relativistic Astrophysics
-Algorithms for Non-thermal Radiative Processes
+This repository contains algorithms for non-thermal radiative processes for the Introduction to Relativistic Astrophysics course at the Facultad de Cs.Astronómicas y Geofísicas (UNLP).
